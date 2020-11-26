@@ -109,3 +109,7 @@ footer p {
 .carousel-filmes {
     margin-top: 5px;
 }
+
+img:hover {
+    cursor: pointer;
+}
