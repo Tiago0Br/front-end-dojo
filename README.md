@@ -4,10 +4,7 @@
 
 #### O projeto simula a interface da página inicial do Netflix, com algumas modificações básicas. Cada uma das imagens quando clicadas levam ao trailer da respectiva série ou respectivo filme. Além da página inicial, foi adicionado uma página exclusivamente para os filmes.
 
-#### Página inicial do projeto
-
 ![Tela inicial Netflix](https://github.com/Tiago0Br/netflix-project/tree/master/img/example1.png)
-#### Página de filmes
 
 ![Filmes](https://github.com/Tiago0Br/netflix-project/tree/master/img/example2.png)
 ### [Digital Innovation One](https://digitalinnovation.one/)
